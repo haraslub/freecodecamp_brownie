@@ -1,0 +1,9 @@
+__pycache__
+.env
+.history
+.hypothesis/
+.pytest_cache/
+.vscode/
+aave_brownie_py.git
+build/
+reports/
